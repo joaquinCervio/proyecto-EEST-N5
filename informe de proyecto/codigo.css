@@ -1,0 +1,103 @@
+body{
+    
+    background: rgb(67, 0, 89);
+    font-family: consolas;
+}
+
+.btn-neon{
+   position: relative;
+   display: inline-block;
+   padding: 15px 24px;
+   color: rgb(255, 255, 255);
+   letter-spacing: 4px;
+   font-size:24px;
+   text-decoration: none;
+   overflow:hidden;
+   transition: 0.2s;
+   top:400px;
+   left:350px;
+   
+}
+
+.btn-neon:hover{
+    background: rgba(220, 49, 242, 0.719);
+    box-shadow: 0 0 10px #fff, 0 0 0px #fff, 0 0 20px #fff;
+    transition-delay: 0,5s ;
+}
+
+.btn-neon2{
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: #fff;
+    letter-spacing: 4px;
+    font-size:24px;
+    text-decoration: none;
+    overflow:hidden;
+    transition: 0.2s;
+    top: 400px;
+    left:550px;
+    ;
+ }
+ 
+ .btn-neon2:hover{
+     background: rgba(220, 49, 242, 0.719);
+     box-shadow: 0 0 10px #fff, 0 0 0px #fff, 0 0 20px #fff;
+     transition-delay: 0,5s ;
+ }
+ 
+ .btn-neon3{
+    
+    position: relative;
+    display: inline-block;
+    padding: 15px 40px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 4px;
+    font-size:24px;
+    text-decoration: none;
+    overflow:hidden;
+    transition: 0.2s;
+    top: 400px;
+    left: 750px;
+ }
+ 
+ .btn-neon3:hover{
+    background: rgba(220, 49, 242, 0.719);
+    box-shadow: 0 0 10px #fff, 0 0 0px #fff, 0 0 20px #fff;
+     transition-delay: 0,5s ;
+ }
+
+.titulo-neon{
+    margin: 30px;
+    font-size: 7em;
+    font-weight: 100;
+    color:#fff;
+    text-shadow: 0 0 2px #fff, 
+                 0 0 1px #fff, 
+                 0 0 25px #fff, 
+                 0 0 1px #fff; 
+    letter-spacing: 5px;
+    cursor: pointer;
+    transition: 1s;
+   
+}
+
+.datos{
+    color:#fff;
+    text-shadow: 
+    0 0 1px  #fff, 
+    0 0 0px  #fff, 
+    0 0 10px #fff, 
+    0 0 1px  #fff; 
+    margin:auto;
+    margin-left: 500px;
+}
+.pepito{
+    color: #fff;
+    font-family:'Poppins';
+    font-size: 25px;
+    border: 2px solid #fff;
+    box-shadow: 0 0 25px #fff, 0 0 15px #fff, 0 0 5px #fff;
+
+    
+}
